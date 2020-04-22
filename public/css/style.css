@@ -1,0 +1,17 @@
+/* file: css/style.css */
+
+#form {
+    background-color: #e3f8fc
+}
+
+#header {
+    background-color: #ffffff
+}
+
+#info {
+    background-color: #fcf8e3
+}
+
+.redtext {
+    color: red;
+}
